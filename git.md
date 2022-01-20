@@ -1,4 +1,4 @@
-# Comandos Git / Git Hub
+# Como enviar um novo projeto inicial para o github usando o VSCode
 
 Aqui estão os passos detalhados necessários para conseguir isso.
 
