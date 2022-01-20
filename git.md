@@ -10,7 +10,7 @@ Os comandos existentes podem ser simplesmente executados através do terminal CL
 git init
 ```
 
-2. Uma vez que seja bem sucedido, clique no ícone 'Source Control' na barra de navegação à esquerda no VS-Code. Deve ser possível ver os arquivos prontos para serem confirmados. Pressione o botão 'Confirmar', forneça comentários, organize as alterações e confirme os arquivos. Como alternativa, você pode executar a partir do CLI
+2. Uma vez que seja bem sucedido, clique no ícone 'Source Control' na barra de navegação à esquerda no VS-Code. Deve ser possível ver os arquivos prontos para serem confirmados. Pressione o botão 'Confirmar', forneça comentários, organize as alterações e confirme os arquivos. Como alternativa, você pode executar a partir do CLI.
 
 ```html
 git commit -m "Your comment"
